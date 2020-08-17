@@ -1,10 +1,17 @@
 ### Hi there 👋
 
-<!--
-**aditisneh/aditisneh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!---
+<p align="center"><img width=50% src="></p>
+
+<video width="320" height="240" controls autoplay>
+  <source src="video.mp4" type="video/mp4">
+  
+</video>
+
 
 Here are some ideas to get you started:
-https://placeit.net/video_v4/share/7bd49c69d51047
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
