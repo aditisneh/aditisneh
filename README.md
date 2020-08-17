@@ -1,16 +1,16 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hiya World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
-<!---
-<p align="center"><img width=50% src="></p>
-
-<video width="320" height="240" controls autoplay>
-  <source src="video.mp4" type="video/mp4">
-  
-</video>
-
-
+<p align="center"><img src="https://github.com/aditisneh/aditisneh/blob/master/ezgif.com-optimize.gif" width="400px" height="350px"></p>
 Here are some ideas to get you started:
+<p>
+  <em>
+    I am a 2nd Year undergraduate from <a href="https://www.bitmesra.ac.in/BIT_Mesra?cid=4&pid=H"> <b>Birla Institute Of Technology, Mesra</b>, Off-Campus Deoghar</a>. <br>
+    A budding <b>Software Developer</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Developer.gif" width="30px"> and a <b>Design    Enthusiast,</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> hersself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
+  </em>  
+</p>
 
 
 - 🔭 I’m currently working on ...
