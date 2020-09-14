@@ -5,7 +5,7 @@
 <p>
   <em>
     I am a 2nd Year undergraduate from <a href="https://www.bitmesra.ac.in/BIT_Mesra?cid=4&pid=H"> <b>Birla Institute Of Technology, Mesra</b>, Off-Campus Deoghar</a>. <br>
-    A budding <b>Web Developer</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Developer.gif" width="30px"> and a <b>Data Science Enthusiast,</b>&nbsp;<img src="https://github.com/aditisneh/aditisneh/blob/master/Designer.gif" width="36px"><br>who is <b>obsessed</b>
+    A budding <b>Web Developer</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Developer.gif" width="30px"> and a <b>Python Enthusiast,</b>&nbsp;<img src="https://github.com/aditisneh/aditisneh/blob/master/Designer.gif" width="36px"><br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Medal.gif" width="20px">
