@@ -14,7 +14,7 @@
 
 
 - 🔭 I’m currently working as a Graphic Designer at <a href="https://www.girlscript.tech/home"><b>GirlScript Ranchi</b></a>
-- 🌱 I’m currently exploring Python libraries
+- 🌱 I’m currently exploring Python libraries and learning data structures. 
 - 💬 Ask me about creativity, I will BANG! <img src="https://github.com/aditisneh/aditisneh/blob/master/headbang.gif" width="30px">
 - 😄 Things Tickle me: Painting, Blogging (soon i will be providing link)
 - 📫 How to reach me: Will do soon :)<img src="https://github.com/aditisneh/aditisneh/blob/master/wave.gif" width="30px">
