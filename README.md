@@ -17,4 +17,4 @@
 - 🌱 I’m currently exploring Python libraries and exploring edges of problem solving. 
 - 💬 Ask me about creativity, I will BANG! <img src="https://github.com/aditisneh/aditisneh/blob/master/headbang.gif" width="30px">
 - 😄 Things Tickle me: Design & Art
-- 📫 How to reach me: Will do soon :)<img src="https://github.com/aditisneh/aditisneh/blob/master/wave.gif" width="30px">
+- 📫 Feel free to reach me<img src="https://github.com/aditisneh/aditisneh/blob/master/wave.gif" width="30px">
