@@ -1,20 +1,23 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">Hiya World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/aditisneh/github-readme-quotes)
 <p align="center"><img src="https://github.com/aditisneh/aditisneh/blob/master/ezgif.com-optimize.gif" width="400px" height="350px"></p>
 
 <p>
   <em>
-    I am a 3rd Year undergraduate from <a href="https://www.bitmesra.ac.in/BIT_Mesra?cid=4&pid=H"> <b>Birla Institute Of Technology, Mesra</b></a>. <br>
-    A budding <b>Web Developer</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Developer.gif" width="30px"> and a <b>Python Enthusiast,</b>&nbsp;<img src="https://github.com/aditisneh/aditisneh/blob/master/Designer.gif" width="36px"><br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    I am a Final Year Computer Science Undergraduate from <a href="https://www.bitmesra.ac.in/"> <b>Birla Institute Of Technology, Mesra</b></a>. <br>
+    I have deep interests in <b>problem soving &nbsp;<img src="https://github.com/aditisneh/aditisneh/blob/master/Designer.gif" width="36px">, web developement and UI Designing</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Developer.gif" width="30px"><br><b>Obsessed</b>
+    with the idea of <b>improving</b> myself and looking for a <b>platform</b> to 
     <b>grow</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/aditisneh/aditisneh/blob/master/Medal.gif" width="20px">
   </em>  
 </p>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
 
-
-- 🔭 Worked as a Graphic Designer at <a href="https://www.girlscript.tech/home"><b>GirlScript Ranchi</b></a>
-- 🌱 I’m currently exploring Python libraries and exploring edges of problem solving. 
+![Stats](https://github-readme-stats.vercel.app/api?username=aditisneh&theme=tokyonight&show_icons=true)
+- 🔭 Worked as a SDE Intern (Full Stack).</a>
+- 🌱 I’m currently exploring javascript and edge cases in problem solving. 
 - 💬 Ask me about creativity, I will BANG! <img src="https://github.com/aditisneh/aditisneh/blob/master/headbang.gif" width="30px">
 - 😄 Things Tickle me: Design & Art
 - 📫 Feel free to reach me<img src="https://github.com/aditisneh/aditisneh/blob/master/wave.gif" width="30px">
+<a href="https://www.linkedin.com/in/aditi-sneh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditi_sneh" height="20" width="20" /></a> &nbsp; <a>aditisneh.27@gmail.com</a>
